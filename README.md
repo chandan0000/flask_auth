@@ -1,5 +1,5 @@
-# flask_login_template
-Template for flask
+# flask_login_auth
+auth for flask
 
 
 # Installation
